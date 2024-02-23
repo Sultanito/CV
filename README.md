@@ -6,3 +6,4 @@ This repository contains the HTML and CSS code for a personal portfolio website.
 
 - **Responsive Design**: The website is fully responsive, ensuring optimal viewing experience across various devices.
 - **Customizable Colors**: Easily modify the primary and secondary colors to suit your preferences.
+- **Customizable Colors**: Easily modify the primary and secondary colors to suit your preferences.
